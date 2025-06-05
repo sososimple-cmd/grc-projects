@@ -14,7 +14,7 @@ These projects demonstrate practical applications of industry frameworks like:
 ## 🧭 Project Overview
 
 ### 🧾 Cloud Compliance Gap Analysis  
-[🔗 View Project Repo »](https://github.com/your-username/cloud-compliance-gap-analysis)
+[🔗 View Project Repo »](https://github.com/sososimple-cmd/Grc-Cloud-Compliance-Analysis)
 
 A simulation of a cloud-based infrastructure audit for an enterprise environment.  
 Key Deliverables:
@@ -25,7 +25,7 @@ Key Deliverables:
 ---
 
 ### 🚗 Rental Car Privacy Risk Assessment  
-[🔗 View Project Repo »](https://github.com/your-username/rental-car-privacy-risk-assessment)
+[🔗 View Project Repo »](https://github.com/sososimple-cmd/rental-car-privacy-risk-assessment)
 
 Assessed how a rental car company collects, processes, and stores sensitive personal data.  
 Key Deliverables:
